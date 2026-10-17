@@ -4,6 +4,9 @@ project_link - https://cinematch-movie-recommender-dxaam6apppzpdvbrrdwpq9w.strea
 Discover your next favorite movie with **CineMatch**, a content-based movie recommendation web application built using Python and Streamlit.
 
 CineMatch analyzes movie information such as genres, keywords, plot overviews, cast, and crew to recommend five similar movies based on the movie selected by the user.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2798f6c6-4492-42ab-bab0-d016fbecc677" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4775ce2a-07ec-4cca-b6ad-f48d5e530dfe" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5cb9a2cf-17b5-4a9b-bcc0-ef4999d07dd7" />
 
 ## ✨ Features
 
